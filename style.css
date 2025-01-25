@@ -169,6 +169,11 @@ body {
         min-height: 100vh;
         flex-direction: column;
     }
+      #logo-1{
+        display: block;
+        height: 100px;
+        width: 100px;
+    }
     .left {
         border-right: none;
     }
