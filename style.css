@@ -139,10 +139,10 @@ body {
         display: none;
 
     }
-    #logo-1{
+      #logo-1{
         display: block;
-        height: 50px;
-        width: 40px;
+        height: 100px;
+        width: 100px;
     }
     
     .right h2 {
